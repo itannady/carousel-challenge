@@ -4,18 +4,18 @@
     overflow: hidden;
 }
 
-.carousel-img, 
-.carousel-img-hidden {
+.carousel-img {
     display: none;
 }
 
-.carousel .carousel-img img {
+.carousel-img img {
     width: 100%;
-}
-
-.carousel .carousel-img-visible {
     display: block;
 }
+
+/* .carousel .carousel-img-visible {
+    display: block;
+} */
 
 .carousel-btns {
     width: 100%;
